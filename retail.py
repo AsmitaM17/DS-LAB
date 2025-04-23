@@ -1,10 +1,10 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-# Sample data - replace this with your actual data
+# Sample data
 data = {
-    'Year': [2020, 2020, 2021, 2021, 2022, 2022],
-    'Product': ['A', 'B', 'A', 'C', 'B', 'D'],
+    'Year': [2020, 2021, 2022, 2023, 2024, 2025],
+    'Product': ['A', 'B', 'C', 'D', 'E', 'F'],
     'Sales': [100, 150, 120, 80, 200, 90],
     'Price': [10, 15, 12, 8, 20, 9],
     'Region': ['North', 'South', 'East', 'West', 'North', 'South']
